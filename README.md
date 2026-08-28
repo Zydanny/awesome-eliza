@@ -131,6 +131,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Initia](https://github.com/elizaos-plugins/plugin-initia) - Token transfers on the Initia blockchain with INIT token support
 - [Injective](https://github.com/elizaos-plugins/plugin-injective) - Interaction with the Injective blockchain through module-based actions
 - [Abstract](https://github.com/elizaos-plugins/plugin-abstract) - Token transfers and operations on the Abstract blockchain network
+- [@superzydan/plugin-x402-dex](https://github.com/Zydanny/plugin-x402-dex) - Real-time DEX market intelligence for ElizaOS agents via x402 Base Mainnet micropayments
 - [Avail](https://github.com/elizaos-plugins/plugin-avail) - Interacts with Avail DA network for data availability and transfers
 - [B2](https://github.com/elizaos-plugins/plugin-b2) - Token transfers on the B2-Network blockchain with B2-BTC support
 - [Conflux](https://github.com/elizaos-plugins/plugin-conflux) - Token transfers and interactions on the Conflux blockchain network
